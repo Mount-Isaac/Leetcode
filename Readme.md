@@ -3,4 +3,6 @@
 <p><b>leet_main.py</b> is the file to be run on the terminal</p>
 <p>It prints each Leetcode question with their respective number and solution</p>
 <p><b>leet_funcs.py</b> contains the code for each respective methods</p>
-@Isaac Kyalo
+</br>
+
+&copy;Isaac Kyalo +254759856000
