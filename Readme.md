@@ -5,4 +5,5 @@
 <p><b>leet_funcs.py</b> contains the code for each respective methods</p>
 </br>
 
-<pre>&copy;Isaac Kyalo +254759856000</pre>
+<pre>&copy;Isaac Kyalo +254759856000![image](https://github.com/Mount-Isaac/Leetcode/assets/72847492/21483e7e-6688-4205-84a1-4099d088b00c)
+</pre>
