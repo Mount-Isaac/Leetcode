@@ -5,4 +5,4 @@
 <p><b>leet_funcs.py</b> contains the code for each respective methods</p>
 </br>
 
-&copy;Isaac Kyalo +254759856000
+<pre>&copy;Isaac Kyalo +254759856000</pre>
