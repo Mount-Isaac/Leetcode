@@ -5,6 +5,5 @@
 <p><b>leet_funcs.py</b> contains the code for each respective methods</p>
 </br>
 
-<pre>&copy;Isaac Kyalo +254759856000 <img style='width:40px, height:40px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoJvbG6by1ziaAOACH0pL4Xlrg3S_KX1o7zrVZHwkIBp1CIRH0LmvW-8&usqp=CAU"    alt=""</pre>
-<!--                                       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/800px-Flag_of_Kenya.svg.png"  -->
+<pre>&copy;Isaac Kyalo +254759856000 <img width:40px, height:40 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoJvbG6by1ziaAOACH0pL4Xlrg3S_KX1o7zrVZHwkIBp1CIRH0LmvW-8&usqp=CAU"    alt=""/></pre>
                                    
