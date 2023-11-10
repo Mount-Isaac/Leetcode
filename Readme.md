@@ -1,4 +1,4 @@
-<h2>All Leetcode Questions Solved</h2>
+<h2 color="blue">All Leetcode Questions Solved</h2>
 <p>To install coloring modules run this command <pre>pip install -r requirements.txt</pre></p>
 <p><b>leet_main.py</b> is the file to be run on the terminal</p>
 <p>It prints each Leetcode question with their respective number and solution</p>
