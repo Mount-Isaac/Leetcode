@@ -11,12 +11,9 @@ def reverse(x):
     
     def check_integer(x):
         x = int(x)
-        print('called')
         if not -2**31 <= x <= 2**31-1:
-            print('bad')
             return str(0)
         else:
-            print('string less')
             return str(x)
 
     # convert the int to a string
