@@ -56,4 +56,3 @@ class Solution(object):
 
     def convert(self, s: str, numRows: int) -> int:
         pass
-
