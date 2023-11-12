@@ -3,3 +3,6 @@ linkedlists = [
     [[0], [0]], 
     [[9,9,9,9,9,9,9], [9,9,9,9]]
 ]
+longest_substring = [
+    "abcabcbb", "bbbbb", "pwwkew", " ", "", "du", "dvdf", "aab"
+]
