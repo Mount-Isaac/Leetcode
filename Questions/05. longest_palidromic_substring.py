@@ -1,3 +1,4 @@
+# Level Medium
 def longestPalindrome(s):
     n = len(s)
     dp = [[False] * n for _ in range(n)]

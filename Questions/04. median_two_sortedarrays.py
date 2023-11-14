@@ -1,3 +1,4 @@
+# Level Hard
 def findMedianSortedArrays(nums1, nums2):
     merged_array = nums1 + nums2
     merged_array.sort()

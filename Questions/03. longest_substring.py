@@ -1,3 +1,4 @@
+# Level Medium
 def lengthOfLongestSubstring(self, s: str) -> int:
         '''
         SLIDING WINDOW CONCEPT
