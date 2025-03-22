@@ -1,9 +1,34 @@
-<h2>All Leetcode Questions Solved</h2>
-<p>To install coloring modules run this command <pre>pip install -r requirements.txt</pre></p>
-<p><b>leet_main.py</b> is the file to be run on the terminal</p>
-<p>It prints each Leetcode question with their respective number and solution</p>
-<p><b>leet_funcs.py</b> contains the code for each respective methods</p>
-</br>
+# All Leetcode Questions Solved
 
-<pre>&copy;Isaac Kyalo <a href="https://wa.me/+254759856000">Talk to me here.<a/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoJvbG6by1ziaAOACH0pL4Xlrg3S_KX1o7zrVZHwkIBp1CIRH0LmvW-8&usqp=CAU" width='23', height='17' style='padding-top:0px'/></pre>
-                                   
+## Python Solutions
+To install coloring modules run this command
+```
+pip install -r requirements.txt
+```
+
+**leet_main.py** is the file to be run on the terminal
+
+It prints each Leetcode question with their respective number and solution
+
+**leet_funcs.py** contains the code for each respective methods
+
+## Go Solutions
+To use the Go solutions:
+
+1. Initialize the Go module:
+```
+go mod init leetcode
+```
+
+2. Run a specific question by providing its filename:
+```
+go run . qn_2807
+```
+or
+```
+go run . qn_2807.go
+```
+
+**Important**: When adding new solution files, remember to register them in the testcases map in the runner file to make them executable.
+
+&copy;Isaac Kyalo [Talk to me here.](https://wa.me/+254759856000) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoJvbG6by1ziaAOACH0pL4Xlrg3S_KX1o7zrVZHwkIBp1CIRH0LmvW-8&usqp=CAU" width='23', height='17' style='padding-top:0px'/>
