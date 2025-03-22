@@ -29,6 +29,7 @@ or
 go run . qn_2807.go
 ```
 
-**Important**: When adding new solution files, remember to register them in the testcases map in the runner file to make them executable.
+**Important**: When adding new Go solution files, remember to register them in the testcases map in the runner file to make them executable.
 
-&copy;Isaac Kyalo [Talk to me here.](https://wa.me/+254759856000) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoJvbG6by1ziaAOACH0pL4Xlrg3S_KX1o7zrVZHwkIBp1CIRH0LmvW-8&usqp=CAU" width='23', height='17' style='padding-top:0px'/>
+<pre>&copy;Isaac Kyalo <a href="https://wa.me/+254759856000">Talk to me here.<a/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoJvbG6by1ziaAOACH0pL4Xlrg3S_KX1o7zrVZHwkIBp1CIRH0LmvW-8&usqp=CAU" width='23', height='17' style='padding-top:0px'/></pre>
+                                   
