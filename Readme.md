@@ -22,11 +22,11 @@ go mod init leetcode
 
 2. Run a specific question by providing its filename:
 ```
-go run . qn_2807
+go run . 2807
 ```
 or
 ```
-go run . qn_2807.go
+go run . 2807.go
 ```
 
 **Important**: When adding new Go solution files, remember to register them in the testcases map in the runner file to make them executable.
