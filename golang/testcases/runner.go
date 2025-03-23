@@ -7,6 +7,7 @@ import (
 // Map file names to their test functions
 var fileToTestFunc = map[string]func(){
 	"2807": TestGcdQuestion,
+	"206":  ReverseSinglyLList,
 }
 
 // runs a test based on the file name
