@@ -1,18 +1,18 @@
-def zero(f=None): return 0 if f else f(0)
-def one(): pass #your code here
-def two(): pass #your code here
-def three(): pass #your code here
-def four(): pass #your code here
+def zero(f=None) return f(0) if f else 0 
+def one(f=None): return f(1) if f else 1 
+def two(f=None): return f(2) if f else 2
+def three(f=None): return f(3) if f else 3 
+def four(f=None): return f(4) if f else 4
 def five(f=None): return f(5) if f else 5
-def six(): pass #your code here
+def six(f=None): return f(6) if f else 6
 def seven(f=None): return f(7) if f else 7
-def eight(): pass #your code here
-def nine(): pass #your code here
+def eight(f=None): return f(8) if f else 8
+def nine(f=None): return f(9) if f else 9
 
-def plus(): pass #your code here
-def minus(): pass #your code here
+def plus(): return lambda x: x + y
+def minus(): return lambda x: x - y
 def times(y): return lambda x : x * y
-def divided_by(): pass #your code here
+def divided_by(): return lambda x : x // y
 
 
 print(seven(times(five())))
